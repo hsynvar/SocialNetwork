@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Business", "SocialNetwork.Business\SocialNetwork.Business.csproj", "{7F619E73-EA74-49E3-8842-CE5250043622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Core", "SocialNetwork.Core\SocialNetwork.Core.csproj", "{83927E05-9BAE-4A25-B313-117F0555D376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Entities", "SocialNetwork.Entities\SocialNetwork.Entities.csproj", "{9214E603-E975-4882-AD53-467C522FD191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.DataAccess", "SocialNetwork.DataAccess\SocialNetwork.DataAccess.csproj", "{2441559E-8030-4329-89A4-0348A69C1949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.WebApi", "SocialNetwork.WebApi\SocialNetwork.WebApi.csproj", "{D43C6E24-983B-4C03-8B1C-941D9E9BEA92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F619E73-EA74-49E3-8842-CE5250043622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F619E73-EA74-49E3-8842-CE5250043622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F619E73-EA74-49E3-8842-CE5250043622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F619E73-EA74-49E3-8842-CE5250043622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83927E05-9BAE-4A25-B313-117F0555D376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83927E05-9BAE-4A25-B313-117F0555D376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83927E05-9BAE-4A25-B313-117F0555D376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83927E05-9BAE-4A25-B313-117F0555D376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9214E603-E975-4882-AD53-467C522FD191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9214E603-E975-4882-AD53-467C522FD191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9214E603-E975-4882-AD53-467C522FD191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9214E603-E975-4882-AD53-467C522FD191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2441559E-8030-4329-89A4-0348A69C1949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2441559E-8030-4329-89A4-0348A69C1949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2441559E-8030-4329-89A4-0348A69C1949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2441559E-8030-4329-89A4-0348A69C1949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43C6E24-983B-4C03-8B1C-941D9E9BEA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43C6E24-983B-4C03-8B1C-941D9E9BEA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43C6E24-983B-4C03-8B1C-941D9E9BEA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43C6E24-983B-4C03-8B1C-941D9E9BEA92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
